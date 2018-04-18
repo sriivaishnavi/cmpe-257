@@ -2,7 +2,7 @@
 
 Machine Learning
 
-Lab1 is about
+Central Tendency & Data Visualization is about
 
 Data Ingestion 
 
